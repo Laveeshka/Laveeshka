@@ -7,7 +7,7 @@ I’m Laveeshka, a Software Engineer in the big blue world. After working as a U
 - 🌟 I’m an Academy Xi graduate looking to join a fantastic company as a grad/junior Software Engineer
 - 🌱 I’m currently learning React Testing & TypeScript
 - 💞️ I’m open to new opportunities across Australia
-- 💃🏽 When I'm not behind my laptop, I play choice-based games and RPGs, pole dance and drink too much coffee
+- 💃🏽 When I'm not behind my laptop, I play games, dance and drink too much coffee
 - 🌍 Fun-Fact: I'm originally from Mauritius, a teeny-tiny dot on the globe, home to the Dodo
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/laveeshka)
 
