@@ -59,11 +59,9 @@ I like to document my Software Engineering learning journey on [Medium](https://
 [![Laveeshka Medium](https://github-readme-medium.vercel.app/?username=laveeshka)](https://medium.com/@laveeshka)
 
 ---
-### 🤡 Someone said meme?
+### 🤡 Lol corner
 
-I can't let you off without sharing a meme
-
-<img src='https://random-memer-production-c6d4.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 Laveeshka/Laveeshka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
